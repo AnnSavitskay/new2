@@ -33,7 +33,7 @@ public class New2{
     }
 }
 
-/*class New3 {
+class New4 {
     New1 new1;
     void str()
     {
@@ -41,4 +41,4 @@ public class New2{
         new1.str();
         System.out.println("Hello again");
     }
-}*/
+}
